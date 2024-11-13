@@ -1,0 +1,17 @@
+{
+	id: "2846c860-74ba-47bd-ab35-9750ffed7d91"
+	type: "player"
+	player_name: "BussyBen123"
+	ranks: {
+		2846c860-74ba-47bd-ab35-9750ffed7d91: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BussyBen123"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

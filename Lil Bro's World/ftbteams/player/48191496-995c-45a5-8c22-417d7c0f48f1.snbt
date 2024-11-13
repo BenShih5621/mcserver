@@ -1,0 +1,17 @@
+{
+	id: "48191496-995c-45a5-8c22-417d7c0f48f1"
+	type: "player"
+	player_name: "Carlitoss75"
+	ranks: {
+		48191496-995c-45a5-8c22-417d7c0f48f1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Carlitoss75"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

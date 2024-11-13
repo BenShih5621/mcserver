@@ -1,0 +1,17 @@
+{
+	id: "d6c6d1f4-c7d6-4ac9-9635-34268fac6905"
+	type: "player"
+	player_name: "SquirtFPS"
+	ranks: {
+		d6c6d1f4-c7d6-4ac9-9635-34268fac6905: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SquirtFPS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B7FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

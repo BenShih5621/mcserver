@@ -1,0 +1,17 @@
+{
+	id: "f4b59f91-5c8b-43e2-b1c4-2723c60b790c"
+	type: "player"
+	player_name: "poliwollie"
+	ranks: {
+		f4b59f91-5c8b-43e2-b1c4-2723c60b790c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "poliwollie"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5962"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

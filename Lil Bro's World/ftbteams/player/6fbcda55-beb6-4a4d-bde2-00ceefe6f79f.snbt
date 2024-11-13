@@ -1,0 +1,17 @@
+{
+	id: "6fbcda55-beb6-4a4d-bde2-00ceefe6f79f"
+	type: "player"
+	player_name: "isabrrr"
+	ranks: {
+		6fbcda55-beb6-4a4d-bde2-00ceefe6f79f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "isabrrr"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFFB59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

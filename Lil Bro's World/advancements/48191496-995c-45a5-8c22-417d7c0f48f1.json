@@ -266,20 +266,46 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-11-17 22:17:04 -0500",
       "minecraft:old_growth_pine_taiga": "2024-11-07 22:17:10 -0500",
       "minecraft:taiga": "2024-11-07 21:46:34 -0500",
+      "minecraft:deep_ocean": "2024-11-17 21:47:14 -0500",
       "minecraft:frozen_river": "2024-11-07 23:54:28 -0500",
       "minecraft:sunflower_plains": "2024-11-07 23:26:02 -0500",
+      "minecraft:cherry_grove": "2024-11-17 21:25:33 -0500",
       "minecraft:birch_forest": "2024-11-07 21:50:01 -0500",
+      "minecraft:windswept_hills": "2024-11-17 21:53:23 -0500",
+      "minecraft:bamboo_jungle": "2024-11-17 21:49:18 -0500",
+      "minecraft:wooded_badlands": "2024-11-17 21:38:42 -0500",
+      "minecraft:savanna_plateau": "2024-11-17 21:39:03 -0500",
       "minecraft:beach": "2024-11-07 21:40:20 -0500",
+      "minecraft:dark_forest": "2024-11-17 22:20:17 -0500",
+      "minecraft:stony_peaks": "2024-11-17 21:39:38 -0500",
+      "minecraft:sparse_jungle": "2024-11-17 21:36:35 -0500",
       "minecraft:river": "2024-11-07 21:59:00 -0500",
+      "minecraft:lukewarm_ocean": "2024-11-17 21:37:10 -0500",
+      "minecraft:snowy_plains": "2024-11-17 21:42:43 -0500",
+      "minecraft:stony_shore": "2024-11-17 21:28:43 -0500",
       "minecraft:snowy_taiga": "2024-11-07 23:54:29 -0500",
+      "minecraft:swamp": "2024-11-17 21:53:25 -0500",
+      "minecraft:jagged_peaks": "2024-11-17 22:17:23 -0500",
       "minecraft:cold_ocean": "2024-11-07 23:01:14 -0500",
       "minecraft:forest": "2024-11-07 21:46:18 -0500",
+      "minecraft:deep_cold_ocean": "2024-11-17 21:46:13 -0500",
+      "minecraft:ice_spikes": "2024-11-17 21:42:26 -0500",
       "minecraft:frozen_ocean": "2024-11-07 23:16:52 -0500",
+      "minecraft:desert": "2024-11-17 21:38:37 -0500",
       "minecraft:ocean": "2024-11-07 23:24:46 -0500",
+      "minecraft:jungle": "2024-11-17 21:36:29 -0500",
       "minecraft:old_growth_spruce_taiga": "2024-11-07 22:33:00 -0500",
+      "minecraft:snowy_beach": "2024-11-17 21:45:23 -0500",
+      "minecraft:windswept_savanna": "2024-11-17 21:52:59 -0500",
+      "minecraft:warm_ocean": "2024-11-17 21:37:19 -0500",
+      "minecraft:deep_lukewarm_ocean": "2024-11-17 21:37:28 -0500",
       "minecraft:flower_forest": "2024-11-07 21:14:26 -0500",
+      "minecraft:old_growth_birch_forest": "2024-11-17 21:40:20 -0500",
+      "minecraft:meadow": "2024-11-17 21:34:13 -0500",
+      "minecraft:savanna": "2024-11-17 21:39:08 -0500",
       "minecraft:plains": "2024-11-07 21:03:26 -0500"
     },
     "done": false
@@ -436,7 +462,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-11-07 21:24:54 -0500"
+      "bread": "2024-11-07 21:24:54 -0500",
+      "golden_apple": "2024-11-17 22:32:11 -0500"
     },
     "done": false
   },
@@ -2055,7 +2082,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-07 22:04:39 -0500",
-      "minecraft:zombie": "2024-11-07 21:34:30 -0500"
+      "minecraft:creeper": "2024-11-17 23:15:39 -0500",
+      "minecraft:zombie": "2024-11-07 21:34:30 -0500",
+      "minecraft:drowned": "2024-11-17 23:18:49 -0500"
     },
     "done": false
   },
@@ -4204,9 +4233,10 @@
   },
   "amethyst_imbuement:progression/basic_materials_3a": {
     "criteria": {
-      "got_amethyst": "2024-11-07 22:28:49 -0500"
+      "got_amethyst": "2024-11-07 22:28:49 -0500",
+      "got_copper": "2024-11-17 23:21:41 -0500"
     },
-    "done": false
+    "done": true
   },
   "amethyst_imbuement:progression/basic_materials_1": {
     "criteria": {
@@ -4420,37 +4450,101 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2024-11-17 21:51:04 -0500",
       "silver_birch_forest": "2024-11-07 23:17:43 -0500",
       "shrubland": "2024-11-07 23:23:48 -0500",
+      "dry_bushland": "2024-11-17 22:03:03 -0500",
+      "pine_taiga": "2024-11-17 21:26:12 -0500",
+      "bayou": "2024-11-17 21:52:25 -0500",
       "autumnal_maple_forest": "2024-11-07 23:56:52 -0500",
       "muddy_river": "2024-11-07 23:19:35 -0500",
+      "marsh": "2024-11-17 21:52:11 -0500",
+      "willow_forest": "2024-11-17 21:27:47 -0500",
+      "frozen_tundra": "2024-11-17 21:43:03 -0500",
+      "rocky_reef": "2024-11-17 21:37:14 -0500",
+      "poppy_fields": "2024-11-17 21:57:36 -0500",
       "grassy_beach": "2024-11-07 23:24:40 -0500",
+      "blackwood_taiga": "2024-11-17 21:26:18 -0500",
+      "rocky_meadow": "2024-11-17 21:28:34 -0500",
       "ochard": "2024-11-07 23:25:58 -0500",
+      "flower_fields": "2024-11-17 21:57:45 -0500",
+      "highland_fields": "2024-11-17 21:25:09 -0500",
       "maple_forest": "2024-11-07 23:00:12 -0500",
+      "frozen_pine_taiga": "2024-11-17 21:42:52 -0500",
+      "tropical_river": "2024-11-17 21:59:59 -0500",
+      "magnolia_highlands": "2024-11-17 21:28:22 -0500",
+      "outback": "2024-11-17 21:59:41 -0500",
+      "joshua_desert": "2024-11-17 22:00:54 -0500",
+      "sparse_redwoods": "2024-11-17 22:22:12 -0500",
+      "deciduous_forest": "2024-11-17 22:03:52 -0500",
       "boreal_forest": "2024-11-07 23:01:11 -0500",
+      "towering_cliffs": "2024-11-17 21:52:40 -0500",
+      "chalk_cliffs": "2024-11-17 22:08:20 -0500",
+      "bamboo_forest": "2024-11-17 21:52:08 -0500",
+      "cold_boreal_taiga": "2024-11-17 21:45:22 -0500",
+      "saguaro_desert": "2024-11-17 22:00:52 -0500",
       "temperate_grove": "2024-11-07 23:23:47 -0500",
       "cold_river": "2024-11-07 23:17:45 -0500",
+      "baobab_savanna": "2024-11-17 22:28:18 -0500",
+      "grassland": "2024-11-17 22:03:57 -0500",
+      "prairie": "2024-11-17 21:50:34 -0500",
       "gravel_beach": "2024-11-07 23:17:41 -0500",
+      "redwoods": "2024-11-17 21:36:07 -0500",
       "golden_boreal_taiga": "2024-11-07 23:00:54 -0500",
-      "hyacinth_deeps": "2024-11-07 23:06:38 -0500"
+      "hyacinth_deeps": "2024-11-07 23:06:38 -0500",
+      "icy_heights": "2024-11-17 21:43:00 -0500",
+      "rainforest": "2024-11-17 22:02:20 -0500",
+      "lupine_plains": "2024-11-17 21:27:50 -0500"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2024-11-17 21:51:04 -0500",
       "silver_birch_forest": "2024-11-07 23:17:43 -0500",
       "shrubland": "2024-11-07 23:23:48 -0500",
+      "dry_bushland": "2024-11-17 22:03:03 -0500",
+      "pine_taiga": "2024-11-17 21:26:12 -0500",
+      "bayou": "2024-11-17 21:52:25 -0500",
       "autumnal_maple_forest": "2024-11-07 23:56:52 -0500",
       "muddy_river": "2024-11-07 23:19:35 -0500",
+      "marsh": "2024-11-17 21:52:11 -0500",
+      "willow_forest": "2024-11-17 21:27:47 -0500",
+      "frozen_tundra": "2024-11-17 21:43:03 -0500",
+      "rocky_reef": "2024-11-17 21:37:14 -0500",
+      "poppy_fields": "2024-11-17 21:57:36 -0500",
       "grassy_beach": "2024-11-07 23:24:40 -0500",
+      "blackwood_taiga": "2024-11-17 21:26:18 -0500",
+      "rocky_meadow": "2024-11-17 21:28:34 -0500",
       "ochard": "2024-11-07 23:25:58 -0500",
+      "flower_fields": "2024-11-17 21:57:45 -0500",
+      "highland_fields": "2024-11-17 21:25:09 -0500",
       "maple_forest": "2024-11-07 23:00:12 -0500",
+      "frozen_pine_taiga": "2024-11-17 21:42:52 -0500",
+      "tropical_river": "2024-11-17 21:59:59 -0500",
+      "magnolia_highlands": "2024-11-17 21:28:22 -0500",
+      "outback": "2024-11-17 21:59:41 -0500",
+      "joshua_desert": "2024-11-17 22:00:54 -0500",
+      "sparse_redwoods": "2024-11-17 22:22:12 -0500",
+      "deciduous_forest": "2024-11-17 22:03:52 -0500",
       "boreal_forest": "2024-11-07 23:01:11 -0500",
+      "towering_cliffs": "2024-11-17 21:52:40 -0500",
+      "chalk_cliffs": "2024-11-17 22:08:20 -0500",
+      "bamboo_forest": "2024-11-17 21:52:08 -0500",
+      "cold_boreal_taiga": "2024-11-17 21:45:22 -0500",
+      "saguaro_desert": "2024-11-17 22:00:52 -0500",
       "temperate_grove": "2024-11-07 23:23:47 -0500",
       "cold_river": "2024-11-07 23:17:45 -0500",
+      "baobab_savanna": "2024-11-17 22:28:18 -0500",
+      "grassland": "2024-11-17 22:03:57 -0500",
+      "prairie": "2024-11-17 21:50:34 -0500",
       "gravel_beach": "2024-11-07 23:17:41 -0500",
+      "redwoods": "2024-11-17 21:36:07 -0500",
       "golden_boreal_taiga": "2024-11-07 23:00:54 -0500",
-      "hyacinth_deeps": "2024-11-07 23:06:38 -0500"
+      "hyacinth_deeps": "2024-11-07 23:06:38 -0500",
+      "icy_heights": "2024-11-17 21:43:00 -0500",
+      "rainforest": "2024-11-17 22:02:20 -0500",
+      "lupine_plains": "2024-11-17 21:27:50 -0500"
     },
     "done": false
   },
@@ -5704,10 +5798,11 @@
   },
   "amethyst_imbuement:progression/scepter_guide": {
     "criteria": {
+      "mats": "2024-11-17 23:21:41 -0500",
       "books": "2024-11-07 23:44:04 -0500",
       "spells": "2024-11-07 23:44:04 -0500"
     },
-    "done": false
+    "done": true
   },
   "amethyst_imbuement:progression/unlocks/spell_recipes_unlock": {
     "criteria": {
@@ -5748,6 +5843,1665 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-11-07 23:49:09 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/warped_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_cyan_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_potato": {
+    "criteria": {
+      "has_item": "2024-11-17 23:17:57 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:spells/forcefield": {
+    "criteria": {
+      "got_spell_book": "2024-11-17 22:51:02 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_purple_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/bm_willow_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-11-17 23:17:57 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-11-17 23:14:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/birch_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_sand": {
+    "criteria": {
+      "has_item": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_white_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_obsidian": {
+    "criteria": {
+      "has_item": "2024-11-17 23:24:05 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_white_tulip": {
+    "criteria": {
+      "has_item": "2024-11-17 23:14:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-11-18 00:37:19 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_cherry_log": {
+    "criteria": {
+      "has_item": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:crystal_adept": {
+    "criteria": {
+      "got_crystal": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-11-17 22:15:51 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/progression_guide": {
+    "criteria": {
+      "scepter": "2024-11-17 23:21:41 -0500",
+      "equipment": "2024-11-17 22:28:02 -0500"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2024-11-17 22:31:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/unlocks/ametrine_recipe_unlock": {
+    "criteria": {
+      "imbuing_table": "2024-11-17 23:25:25 -0500"
+    },
+    "done": false
+  },
+  "variantshields:recipes/combat/jungle_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_eucalyptus_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-11-17 21:41:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-17 23:17:57 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:spells/cleanse": {
+    "criteria": {
+      "got_spell_book": "2024-11-18 00:15:53 -0500"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2024-11-17 23:35:45 -0500"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/combat/rudimentary_gauntlet": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/bamboo_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2024-11-17 23:03:26 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
+    "criteria": {
+      "has_bleeding_heart": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_pink_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_cypress_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "beautify:progression/light": {
+    "criteria": {
+      "obtain": "2024-11-17 23:36:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:addiction/root": {
+    "criteria": {
+      "crafting_table": "2024-11-17 23:13:00 -0500"
+    },
+    "done": true
+  },
+  "darkrpg:anvil": {
+    "criteria": {
+      "darkrpg_anvil": "2024-11-18 00:30:19 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-11-17 21:28:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_anvil": {
+    "criteria": {
+      "has_item": "2024-11-18 00:30:19 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/oak_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/aquatic_torch": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_swamp": "2024-11-17 21:53:25 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-11-17 23:14:32 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:spells/withering_bolt": {
+    "criteria": {
+      "got_spell_book": "2024-11-17 23:31:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-11-17 23:15:42 -0500"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-11-17 21:53:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-11-17 22:20:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-11-17 22:08:59 -0500"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ruby_upgrade_smithing_template": {
+    "criteria": {
+      "has_ruby_upgrade_smithing_template": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2024-11-17 22:57:25 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_brown_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-11-17 23:35:45 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-11-17 23:17:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 23:14:29 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2024-11-18 00:37:14 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:spells/summon_chicken": {
+    "criteria": {
+      "got_spell_book": "2024-11-17 22:51:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-11-17 23:35:48 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_green_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/dark_oak_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/smarty_glasses": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_baobab_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_mauve_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/warped_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-11-18 00:37:19 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:spells/mass_heal": {
+    "criteria": {
+      "got_spell_book": "2024-11-18 00:34:30 -0500"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2024-11-17 23:35:45 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-11-17 23:17:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/acacia_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2024-11-17 23:13:00 -0500"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2024-11-17 23:21:47 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/spruce_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_gray_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_carrot": {
+    "criteria": {
+      "has_item": "2024-11-17 23:14:29 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_green_bioshroom_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-11-17 21:44:52 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/soul_reflector": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_cobalt_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
+    "criteria": {
+      "has_waratah": "2024-11-17 23:14:31 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:recipes/opaline_scepter": {
+    "criteria": {
+      "has_items": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_willow_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_red_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/crystal_altar": {
+    "criteria": {
+      "got_altar": "2024-11-17 23:25:25 -0500"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/enter_badlands": {
+    "criteria": {
+      "enter_badlands3": "2024-11-17 21:38:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_kapok_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:recipes/beryl_copper_block": {
+    "criteria": {
+      "has_items": "2024-11-17 23:21:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "plentyofarmors:armors/root": {
+    "criteria": {
+      "requirement": "2024-11-17 23:13:00 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/crimson_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:spells/weightlessness": {
+    "criteria": {
+      "got_spell_book": "2024-11-17 23:31:30 -0500"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 23:14:29 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_joshua_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "darkrpg:shears": {
+    "criteria": {
+      "darkrpg_shears": "2024-11-17 23:13:00 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_larch_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_map": {
+    "criteria": {
+      "has_item": "2024-11-17 23:49:52 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/equipment_guide": {
+    "criteria": {
+      "unlock": "2024-11-17 22:28:02 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 23:14:29 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/unlocks/garnet_recipe_unlock": {
+    "criteria": {
+      "imbuing_table": "2024-11-17 23:25:25 -0500"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_maple_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-17 21:44:52 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_light_blue_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_aster": {
+    "criteria": {
+      "has_aster": "2024-11-17 23:06:01 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2024-11-18 00:37:19 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 23:14:29 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/base_components": {
+    "criteria": {
+      "advancements": "2024-11-17 23:12:59 -0500",
+      "got_orb": "2024-11-17 23:12:59 -0500"
+    },
+    "done": false
+  },
+  "variantfletchingtables:recipes/decorations/jungle_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-17 23:14:29 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_birch_log": {
+    "criteria": {
+      "has_item": "2024-11-18 00:37:19 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_spruce_log": {
+    "criteria": {
+      "has_item": "2024-11-17 21:44:52 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/bamboo_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/cherry_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_allium": {
+    "criteria": {
+      "has_item": "2024-11-17 23:05:36 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_redwood_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_yellow_bioshroom_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-11-17 23:24:05 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/unlocks/ametrine_unlock": {
+    "criteria": {
+      "unlock": "2024-11-17 22:28:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-17 23:13:00 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_magnolia_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/crimson_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/enter_swamp": {
+    "criteria": {
+      "enter_swamp2": "2024-11-17 21:53:25 -0500"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/radio_collar": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_blue_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/experience_bottle": {
+    "criteria": {
+      "got_xp_bottle": "2024-11-17 23:14:31 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 23:14:29 -0500"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2024-11-17 23:13:00 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/gear/garnet_gear": {
+    "criteria": {
+      "got_garnet": "2024-11-17 22:28:02 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_pine_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 23:17:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-17 22:46:39 -0500"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/magus": {
+    "criteria": {
+      "arcane": "2024-11-18 00:44:13 -0500"
+    },
+    "done": true
+  },
+  "darkrpg:crafting_table": {
+    "criteria": {
+      "darkrpg_crafting_table": "2024-11-17 23:13:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/dark_oak_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/enter_dark_forest": {
+    "criteria": {
+      "enter_dark_forest": "2024-11-17 22:20:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-11-17 23:17:57 -0500"
+    },
+    "done": true
+  },
+  "darkrpg:sticks": {
+    "criteria": {
+      "darkrpg_stick": "2024-11-17 23:13:00 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_brimwood_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "giftsofgiving:recipes/misc/white_present": {
+    "criteria": {
+      "has_chest": "2024-11-17 22:47:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-11-17 23:35:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-17 22:46:39 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/mangrove_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_sweet_berries": {
+    "criteria": {
+      "has_item": "2024-11-17 23:35:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_blue_bioshroom_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_blackwood_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "beautify:progression/bookstack": {
+    "criteria": {
+      "obtain": "2024-11-17 23:35:56 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-11-17 22:05:57 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/bm_swamp_cypress_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/reagents": {
+    "criteria": {
+      "got_reagent": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/tier_2_gems": {
+    "criteria": {
+      "unlock": "2024-11-17 22:28:02 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/quartz": {
+    "criteria": {
+      "unlock": "2024-11-17 23:25:25 -0500"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2024-11-17 23:03:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-17 21:44:52 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_pink_bioshroom_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "darkrpg:bone_meal": {
+    "criteria": {
+      "darkrpg_bone_meal": "2024-11-17 23:35:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-11-17 23:05:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/seasonal_compendium": {
+    "criteria": {
+      "has_sapling": "2024-11-17 23:02:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-17 23:17:57 -0500"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/divine_retribution": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/oak_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-11-17 23:42:01 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_stone": {
+    "criteria": {
+      "has_item": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 23:14:29 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/bm_blighted_balsa_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/cherry_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/spruce_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:beryl_copper_ingot": {
+    "criteria": {
+      "got_gem": "2024-11-17 23:21:41 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2024-11-17 23:35:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-11-17 23:05:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_magenta_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:dusty": {
+    "criteria": {
+      "got_gem": "2024-11-17 23:23:08 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/bm_ancient_oak_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/glassocean": {
+    "criteria": {
+      "arcane": "2024-11-18 00:43:54 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:glowing": {
+    "criteria": {
+      "got_gem": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:compression/root": {
+    "criteria": {
+      "crafting_table": "2024-11-17 23:13:00 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_orange_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:plushables/got_copper_ingot": {
+    "criteria": {
+      "got_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_black_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/acacia_stone_shield": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-17 23:24:05 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2024-11-17 23:13:29 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_socotra_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-17 23:21:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_lime_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-11-17 23:35:48 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_flint": {
+    "criteria": {
+      "has_item": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-17 23:38:18 -0500"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/cardboard_box": {
+    "criteria": {
+      "has_chest": "2024-11-17 22:47:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-17 23:17:57 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/mangrove_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_golden_apple": {
+    "criteria": {
+      "has_item": "2024-11-17 22:31:27 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_light_gray_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-11-17 23:46:58 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_palm_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/basic_materials_2": {
+    "criteria": {
+      "got_gem": "2024-11-17 23:12:59 -0500",
+      "got_copper": "2024-11-17 23:21:41 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/basic_gems": {
+    "criteria": {
+      "unlock": "2024-11-17 22:28:02 -0500"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2024-11-17 22:47:32 -0500"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-11-17 22:47:32 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/unlocks/glowing_unlock": {
+    "criteria": {
+      "unlock": "2024-11-17 22:28:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-17 23:12:59 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_yellow_painted_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_stripped_oak_log": {
+    "criteria": {
+      "has_item": "2024-11-17 22:46:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-11-17 22:57:18 -0500"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_experience_bottle": {
+    "criteria": {
+      "has_item": "2024-11-17 23:14:31 -0500"
+    },
+    "done": true
+  },
+  "variantfletchingtables:recipes/decorations/ru_dead_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 23:12:58 -0500"
     },
     "done": true
   },
